@@ -8,7 +8,7 @@ Class=Processor ; TODO: edit Class
 ClassGuid={50127dc3-0f36-415e-a6cc-4cb3be910b65} ; TODO: edit ClassGuid
 Provider=%ManufacturerName%
 CatalogFile=KernelInjector.cat
-DriverVer = 03/10/2024,13.30.7.130
+DriverVer = 03/10/2024,15.34.17.846
 PnpLockDown=1
 
 [DestinationDirs]
